@@ -7,6 +7,6 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url("assignment2_assets/images/background.png");
+  background: url("assets/images/background.png");
   background-size: cover;
 }
